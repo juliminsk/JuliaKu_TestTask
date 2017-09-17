@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JuliaKu_HelloWorld.iml" filepath="$PROJECT_DIR$/JuliaKu_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JuliaKu_FirstTask.iml" filepath="$PROJECT_DIR$/JuliaKu_FirstTask.iml" />
     </modules>
   </component>
 </project>
